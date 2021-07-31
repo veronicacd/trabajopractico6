@@ -1,0 +1,22 @@
+body{
+    background-color: #D6D2C8;
+}
+.contenedor{
+    min-width:940;
+    max-width:720;
+    margin:30px auto 15px auto;
+    width: 900px;
+    text-align: center;
+    
+}
+.entrada{
+    float: left;
+    width:300px;
+    
+
+}
+
+
+
+
+
